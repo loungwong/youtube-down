@@ -21,3 +21,5 @@
 网站7：https://www.y2mate.com/en858/download-youtube （视频质量最高设置为1440p）
 
 网站8：https://yt1d.com/zh-tw （视频质量最高设置为4k）
+
+网站9：https://zeemo.ai/cn/tools/youtube-video-downloader
